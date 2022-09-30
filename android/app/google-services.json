@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1061545616606",
+    "firebase_url": "https://ecoshops-1338f-default-rtdb.firebaseio.com",
+    "project_id": "ecoshops-1338f",
+    "storage_bucket": "ecoshops-1338f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061545616606:android:2237acc0f4f6cdad4d8e4f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ecoshops"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061545616606-rid8jb796139udhmvtqcqkp2fqg4qi0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTCuX4RoMl5RRiqCLfF56D74UFK0us7YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061545616606-rid8jb796139udhmvtqcqkp2fqg4qi0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
